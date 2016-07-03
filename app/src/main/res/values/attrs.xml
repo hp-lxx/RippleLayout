@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleLayout">
+        <attr name="rl_rippleColor" format="color" localization="suggested" />
+        <attr name="rl_rippleDimension" format="dimension" localization="suggested" />
+        <attr name="rl_rippleOverlay" format="boolean" localization="suggested" />
+        <attr name="rl_rippleAlpha" format="float" localization="suggested" />
+        <attr name="rl_rippleDuration" format="integer" localization="suggested" />
+        <attr name="rl_rippleFadeDuration" format="integer" localization="suggested" />
+        <attr name="rl_rippleHover" format="boolean" localization="suggested" />
+        <attr name="rl_rippleBackground" format="color" localization="suggested" />
+        <attr name="rl_rippleDelayClick" format="boolean" localization="suggested" />
+        <attr name="rl_ripplePersistent" format="boolean" localization="suggested" />
+        <attr name="rl_rippleInAdapter" format="boolean" localization="suggested" />
+        <attr name="rl_rippleRoundedCorners" format="dimension" localization="suggested" />
+    </declare-styleable>
+</resources>

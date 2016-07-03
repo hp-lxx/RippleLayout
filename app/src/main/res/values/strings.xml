@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RippleLayout</string>
+
+    <string name="switch_list">ListView</string>
+    <string name="switch_button">Buttons</string>
+    <string name="switch_recycler">RecyclerView</string>
+</resources>
